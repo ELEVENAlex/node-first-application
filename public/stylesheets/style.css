@@ -1,4 +1,4 @@
-body {
+/* body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background: rgb(48, 48, 48);
@@ -7,4 +7,9 @@ body {
 
 a {
   color: purple;
+} */
+
+body{
+  background: #202020 !important;
+  color: white !important;
 }
